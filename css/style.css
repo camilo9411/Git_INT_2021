@@ -1,0 +1,57 @@
+body{
+
+    background-color: gray;
+
+}
+
+.logo{
+    width: 80px;
+    height: 100px;
+    display: inline;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    background-color: lightgray;
+    
+}
+
+.header{
+    background-color: black;
+    padding: 30px;
+    
+}
+
+.content{
+
+    padding: 40px;
+
+}
+
+.content>div{
+
+    
+    border: 1px solid black;
+    margin: 1px;
+    padding: 10px;
+    height: 150px;
+    
+}
+
+
+.title{
+    display: inline;
+    color:white;
+    margin: 100px;
+    
+}
+
+.footer{
+
+    max-height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
